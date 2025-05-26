@@ -573,6 +573,15 @@ section {
     }
 }
 
+@media (max-width: 576px) {
+    .hero-section {
+        padding-top: 120px; /* Increase top padding on mobile */
+    }
+
+    .hero-section h1 {
+        margin-top: 40px; /* Add spacing under navbar */
+    }
+}
 /* Dark Mode Styles */
 .dark-mode {
     --bg-color: #0f172a;
