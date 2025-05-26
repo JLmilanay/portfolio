@@ -708,6 +708,10 @@ section {
     .hero-section {
         padding: 70px 0 40px;
     }
+
+    .hero-section h1 {
+       padding-top: 100px;
+    }
     
     .id-card-container {
         margin-top: 30px;
